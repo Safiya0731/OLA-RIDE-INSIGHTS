@@ -66,6 +66,24 @@ Tables: Vehicle-wise performance, top customers.
 Ratings: Customer vs driver comparison across vehicle categories.
 
 
+Bottleneck #1: High Driver Cancellations (18%)
+Bottleneck #2: “Driver Not Found” (10%)
+Bottleneck #3: Customer Cancellations (10%)
+Recommendations - 
+Driver-Focused Solutions:
+Implement Acceptance Score Incentives.
+Provide Upfront Fare & Destination Information.
+Offer Location-Based “Hotspot” Bonuses.
+
+Platform & Technology Solutions:
+Optimize the Dispatch Algorithm for shorter pickup times.
+Enhance Predictive Analytics for Driver Positioning.
+Refine ETA Calculation Accuracy.
+
+Customer-Focused Solutions:
+Revise the Cancellation Fee Policy to be fairer and more effective. Introduce a “Wait & Save” feature during peak demand.
+
+
 🧾 Final Conclusion
 The Ola rides data analysis uncovered valuable insights for business decision-making:
 ✅ Optimize driver allocation and customer communication to reduce cancellations.
